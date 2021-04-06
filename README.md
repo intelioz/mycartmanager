@@ -1,2 +1,2 @@
 # mycartmanager
-Complete ecommerce colution using angular7 and node.js
+Complete ecommerce solution using angular7 and node.js
